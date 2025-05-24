@@ -7,7 +7,7 @@ Welcome to our project repository!
 
 ## Team Members
 
-- Cameron Kronmiller
+- Hi, I am Cameron Kronmiller. I am excited to be in a group with you guys. My current hobbies are playing basketball and flying drones.
 - Joshua Howard
 - Yaseen Bin Yousuf Basravi
 - Amanda Kumar
