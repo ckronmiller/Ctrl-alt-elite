@@ -12,6 +12,4 @@ Welcome to our project repository!
 - Joshua Howard
 - Yaseen Bin Yousuf Basravi
 - Amanda Kumar
-- Ricardo Garcia
-
-* Hello everyone I'm Ricardo. I look forward to working with everyone. My favorite hobby is wrestling.
+- Hello everyone I'm Ricardo. I look forward to working with everyone. My hobby is wrestling.
