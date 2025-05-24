@@ -13,4 +13,5 @@ Welcome to our project repository!
   I am Joshua Howard but everyone calls me Josh. I am excited to work on this project with everyone. My favorite hobby is exercising.
 - Yaseen Bin Yousuf Basravi
 - Amanda Kumar
+	Hi! I'm Amanda, and I'm excited to get started on this. I enjoy many hobbies, but recent ones have been baking, hiking, and running.
 - Ricardo Garcia
