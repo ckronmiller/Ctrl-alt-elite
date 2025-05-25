@@ -13,7 +13,7 @@ Hi, I am Cameron Kronmiller. I am excited to be in a group with you guys. My cur
 - Joshua Howard  
   I am Joshua Howard but everyone calls me Josh. I am excited to work on this project with everyone. My favorite hobby is exercising.
 - Yaseen Bin Yousuf Basravi  
-   I am Yaseen Basravi. I am really looking forward to get started with you guys on this project. My fav hobby is to play soccer.
+   I am Yaseen Basravi. I am really looking forward to get started with you guys on this project. My fav hobby is to play soccer. I also sometimes watch cricket.
 - Amanda Kumar  
 	Hi! I'm Amanda, and I'm excited to get started on this. I enjoy many hobbies, but recent ones have been baking, hiking, and running.
 - Ricardo Garcia  
